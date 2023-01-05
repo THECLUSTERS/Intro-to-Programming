@@ -6,7 +6,7 @@ int main()
 	int A, B, sum = 0;
 
 	// Ask user to enter the two numbers
-	printf("Enter two numbers A and B : \n");
+	cout<<"Enter two numbers A and B : \n";
 
 	// Read two numbers
 	cin>>a>>b;
